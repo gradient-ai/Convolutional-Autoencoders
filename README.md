@@ -1,6 +1,6 @@
 # Convolutional Autoencoders
 
-This repo shows how to write autoencoders and convolutional autoencoders from scratch with python, and is paired with the blog found [here](blog.paperspace.com/convolutional-autoencoder/)
+This repo shows how to write autoencoders and convolutional autoencoders from scratch with python, and is paired with the blog found [here](https://blog.paperspace.com/convolutional-autoencoder/)
 
 Launch this in Paperspace Gradient by clicking the link below.
 
